@@ -11,7 +11,7 @@
 ![HTML](https://img.shields.io/badge/-HTML-E44D25?style=for-the-badge&logoColor=fff&logo=html5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-254DE6?style=for-the-badge&logoColor=fff&logo=css3)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-FEAE32?style=for-the-badge&logoColor=fff&logo=javascript)&nbsp;
-![CSharpo](https://img.shields.io/badge/-CSharp-3B00937?style=for-the-badge&logoColor=fff&logo=c+sharp)
+![CSharpo](https://img.shields.io/badge/-CSharp-blueviolet?style=for-the-badge&logoColor=&logo=c+sharp)
 
 📫 &nbsp; Would you like to find me?
 
