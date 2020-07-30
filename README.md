@@ -2,7 +2,7 @@
   Hi there!👋  I’m Alexandre Dórea (myrp-alexandre)
 </h1>
 
-- 🔭 I’m currently working on :cloud: [MyRP](https://www.myrp.com.br/) as Web Developer, a company from Blumenau-SC, Brazil.
+- 🔭 I’m currently working on :cloud: as Web Developer, a company from Blumenau-SC, Brazil.
 
 ## Skills:
 
